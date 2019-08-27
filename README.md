@@ -13,3 +13,4 @@ Team AASM Members:
 
 How to run: 
   * download Halite C++ archive: https://2018.halite.io/learn-programming-challenge/downloads
+  * test it with some sample bots or with your own

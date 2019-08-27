@@ -9,7 +9,7 @@ Team AASM Members:
 * Stefan Hermeniuc
 * Alin Georgescu
 
-**Top 10 bot @ ACS Halite III Competition**
+**One of the best bots @ ACS Halite III Competition:** https://paresources.github.io/haliteweekly.github.io/
 
 How to run: 
   * download Halite C++ archive: https://2018.halite.io/learn-programming-challenge/downloads
